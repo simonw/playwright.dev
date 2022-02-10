@@ -1,0 +1,29 @@
+{
+  "permalink": "/dotnet/blog/whats-new-in-playwright-1-18",
+  "editUrl": "https://github.com/microsoft/playwright.dev/edit/master/blog/2022-02-09-whats-new-in-playwright-1-18.md",
+  "source": "@site/blog/2022-02-09-whats-new-in-playwright-1-18.md",
+  "title": "What's new in Playwright v1.18",
+  "description": "",
+  "date": "2022-02-09T00:00:00.000Z",
+  "formattedDate": "February 9, 2022",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/dotnet/blog/tags/release"
+    }
+  ],
+  "readingTime": 0.075,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Andrey Lushnikov",
+      "title": "Playwright team",
+      "url": "https://twitter.com/aslushnikov",
+      "imageURL": "https://avatars.githubusercontent.com/u/746130?v=4"
+    }
+  ],
+  "nextItem": {
+    "title": "What's new in Playwright v1.17",
+    "permalink": "/dotnet/blog/whats-new-in-playwright-1-17"
+  }
+}

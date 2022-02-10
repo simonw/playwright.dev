@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://playwright.dev/blog</id>
     <title>Playwright Blog</title>
-    <updated>2021-11-18T00:00:00.000Z</updated>
+    <updated>2022-02-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://playwright.dev/blog"/>
     <subtitle>Playwright Blog</subtitle>
     <icon>https://playwright.dev/img/playwright-logo.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[What's new in Playwright v1.18]]></title>
+        <id>whats-new-in-playwright-1-18</id>
+        <link href="https://playwright.dev/blog/whats-new-in-playwright-1-18"/>
+        <updated>2022-02-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/ABLYpw2BN_g" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <author>
+            <name>Andrey Lushnikov</name>
+            <uri>https://twitter.com/aslushnikov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's new in Playwright v1.17]]></title>
         <id>whats-new-in-playwright-1-17</id>
