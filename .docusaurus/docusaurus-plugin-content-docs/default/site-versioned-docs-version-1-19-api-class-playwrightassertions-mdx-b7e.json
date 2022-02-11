@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/class-playwrightassertions",
+  "id": "version-1.19/api/class-playwrightassertions",
+  "isDocsHomePage": false,
+  "title": "PlaywrightAssertions",
+  "description": "The [PlaywrightAssertions] class provides convenience methods for creating assertions that will wait until the expected condition is met.",
+  "source": "@site/versioned_docs/version-1.19/api/class-playwrightassertions.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-playwrightassertions",
+  "permalink": "/java/docs/api/class-playwrightassertions",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "class-playwrightassertions",
+    "title": "PlaywrightAssertions"
+  },
+  "sidebar": "version-1.19/api",
+  "previous": {
+    "title": "PageAssertions",
+    "permalink": "/java/docs/api/class-pageassertions"
+  },
+  "next": {
+    "title": "PlaywrightException",
+    "permalink": "/java/docs/api/class-playwrightexception"
+  }
+}

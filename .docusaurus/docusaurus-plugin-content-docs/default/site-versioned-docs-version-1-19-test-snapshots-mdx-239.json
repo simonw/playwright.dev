@@ -1,0 +1,26 @@
+{
+  "unversionedId": "test-snapshots",
+  "id": "version-1.19/test-snapshots",
+  "isDocsHomePage": false,
+  "title": "Visual comparisons",
+  "description": "Playwright Test includes the ability to produce and visually compare screenshots using expect(value).toMatchSnapshot(snapshotName). On first execution, Playwright test will generate reference screenshots. Subsequent runs will compare against the reference.",
+  "source": "@site/versioned_docs/version-1.19/test-snapshots.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-snapshots",
+  "permalink": "/docs/test-snapshots",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "test-snapshots",
+    "title": "Visual comparisons"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Timeouts",
+    "permalink": "/docs/test-timeouts"
+  },
+  "next": {
+    "title": "Advanced: configuration",
+    "permalink": "/docs/test-advanced"
+  }
+}

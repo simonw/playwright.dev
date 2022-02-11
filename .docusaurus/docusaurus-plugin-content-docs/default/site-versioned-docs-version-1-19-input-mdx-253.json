@@ -1,0 +1,26 @@
+{
+  "unversionedId": "input",
+  "id": "version-1.19/input",
+  "isDocsHomePage": false,
+  "title": "Input",
+  "description": "- Text input",
+  "source": "@site/versioned_docs/version-1.19/input.mdx",
+  "sourceDirName": ".",
+  "slug": "/input",
+  "permalink": "/dotnet/docs/input",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "input",
+    "title": "Input"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Locators",
+    "permalink": "/dotnet/docs/locators"
+  },
+  "next": {
+    "title": "Navigations",
+    "permalink": "/dotnet/docs/navigations"
+  }
+}

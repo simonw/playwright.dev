@@ -1,0 +1,26 @@
+{
+  "unversionedId": "browser-contexts",
+  "id": "version-1.19/browser-contexts",
+  "isDocsHomePage": false,
+  "title": "Browser Contexts",
+  "description": "- Browser context",
+  "source": "@site/versioned_docs/version-1.19/browser-contexts.mdx",
+  "sourceDirName": ".",
+  "slug": "/browser-contexts",
+  "permalink": "/dotnet/docs/browser-contexts",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "browser-contexts",
+    "title": "Browser Contexts"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Browsers",
+    "permalink": "/dotnet/docs/browsers"
+  },
+  "next": {
+    "title": "Command line tools",
+    "permalink": "/dotnet/docs/cli"
+  }
+}

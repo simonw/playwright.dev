@@ -1,0 +1,26 @@
+{
+  "unversionedId": "verification",
+  "id": "version-1.19/verification",
+  "isDocsHomePage": false,
+  "title": "Verification",
+  "description": "- Console logs",
+  "source": "@site/versioned_docs/version-1.19/verification.mdx",
+  "sourceDirName": ".",
+  "slug": "/verification",
+  "permalink": "/dotnet/docs/verification",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "verification",
+    "title": "Verification"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Selectors",
+    "permalink": "/dotnet/docs/selectors"
+  },
+  "next": {
+    "title": "Videos",
+    "permalink": "/dotnet/docs/videos"
+  }
+}

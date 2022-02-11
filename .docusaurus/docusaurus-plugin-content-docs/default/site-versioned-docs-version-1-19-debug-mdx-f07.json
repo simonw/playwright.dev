@@ -1,0 +1,26 @@
+{
+  "unversionedId": "debug",
+  "id": "version-1.19/debug",
+  "isDocsHomePage": false,
+  "title": "Debugging tools",
+  "description": "Playwright scripts work with existing debugging tools, like Node.js debuggers and browser developer tools. Playwright also introduces new debugging features for browser automation.",
+  "source": "@site/versioned_docs/version-1.19/debug.mdx",
+  "sourceDirName": ".",
+  "slug": "/debug",
+  "permalink": "/dotnet/docs/debug",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "debug",
+    "title": "Debugging tools"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Test Generator",
+    "permalink": "/dotnet/docs/codegen"
+  },
+  "next": {
+    "title": "Release notes",
+    "permalink": "/dotnet/docs/release-notes"
+  }
+}

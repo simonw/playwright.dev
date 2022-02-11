@@ -1,0 +1,17 @@
+{
+  "unversionedId": "api/class-apiresponseassertions",
+  "id": "version-1.19/api/class-apiresponseassertions",
+  "isDocsHomePage": false,
+  "title": "APIResponseAssertions",
+  "description": "The APIResponseAssertions] class provides assertion methods that can be used to make assertions about the [APIResponse] in the tests. A new instance of [APIResponseAssertions] is created by calling [PlaywrightAssertions.assertThat(response):",
+  "source": "@site/versioned_docs/version-1.19/api/class-apiresponseassertions.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-apiresponseassertions",
+  "permalink": "/java/docs/api/class-apiresponseassertions",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "class-apiresponseassertions",
+    "title": "APIResponseAssertions"
+  }
+}

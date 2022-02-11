@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api-testing",
+  "id": "version-1.19/api-testing",
+  "isDocsHomePage": false,
+  "title": "API testing",
+  "description": "Playwright can be used to get access to the REST API of your application.",
+  "source": "@site/versioned_docs/version-1.19/api-testing.mdx",
+  "sourceDirName": ".",
+  "slug": "/api-testing",
+  "permalink": "/java/docs/api-testing",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "api-testing",
+    "title": "API testing"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Auto-waiting",
+    "permalink": "/java/docs/actionability"
+  },
+  "next": {
+    "title": "Assertions",
+    "permalink": "/java/docs/assertions"
+  }
+}

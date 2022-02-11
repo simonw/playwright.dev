@@ -1,0 +1,26 @@
+{
+  "unversionedId": "library",
+  "id": "version-1.19/library",
+  "isDocsHomePage": false,
+  "title": "Library",
+  "description": "Playwright can either be used as a part of the Playwright Test, or as a Playwright Library (this guide). If you are working on an application that utilizes Playwright capabilities or you are using Playwright with another test runner, read on.",
+  "source": "@site/versioned_docs/version-1.19/library.mdx",
+  "sourceDirName": ".",
+  "slug": "/library",
+  "permalink": "/docs/library",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "library",
+    "title": "Library"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Advanced: TypeScript",
+    "permalink": "/docs/test-typescript"
+  },
+  "next": {
+    "title": "Auto-waiting",
+    "permalink": "/docs/actionability"
+  }
+}

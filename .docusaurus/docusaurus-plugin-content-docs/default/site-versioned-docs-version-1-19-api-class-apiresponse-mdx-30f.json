@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/class-apiresponse",
+  "id": "version-1.19/api/class-apiresponse",
+  "isDocsHomePage": false,
+  "title": "APIResponse",
+  "description": "APIResponse] class represents responses returned by [APIRequestContext.get(url[, options]) and similar methods.",
+  "source": "@site/versioned_docs/version-1.19/api/class-apiresponse.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-apiresponse",
+  "permalink": "/java/docs/api/class-apiresponse",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "class-apiresponse",
+    "title": "APIResponse"
+  },
+  "sidebar": "version-1.19/api",
+  "previous": {
+    "title": "APIRequestContext",
+    "permalink": "/java/docs/api/class-apirequestcontext"
+  },
+  "next": {
+    "title": "Browser",
+    "permalink": "/java/docs/api/class-browser"
+  }
+}

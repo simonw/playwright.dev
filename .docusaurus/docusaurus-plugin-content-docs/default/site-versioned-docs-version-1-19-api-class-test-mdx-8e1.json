@@ -1,0 +1,22 @@
+{
+  "unversionedId": "api/class-test",
+  "id": "version-1.19/api/class-test",
+  "isDocsHomePage": false,
+  "title": "Playwright Test",
+  "description": "Playwright Test provides a test function to declare tests and expect function to write assertions.",
+  "source": "@site/versioned_docs/version-1.19/api/class-test.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-test",
+  "permalink": "/docs/api/class-test",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "class-test",
+    "title": "Playwright Test"
+  },
+  "sidebar": "version-1.19/api",
+  "next": {
+    "title": "Playwright Library",
+    "permalink": "/docs/api/class-playwright"
+  }
+}

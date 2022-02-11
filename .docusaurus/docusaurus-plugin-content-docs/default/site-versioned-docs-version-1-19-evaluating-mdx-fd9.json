@@ -1,0 +1,26 @@
+{
+  "unversionedId": "evaluating",
+  "id": "version-1.19/evaluating",
+  "isDocsHomePage": false,
+  "title": "Evaluating JavaScript",
+  "description": "Playwright scripts run in your Playwright environment. Your page scripts run in the browser page environment. Those environments don't intersect, they are running in different virtual machines in different processes and even potentially on different computers.",
+  "source": "@site/versioned_docs/version-1.19/evaluating.mdx",
+  "sourceDirName": ".",
+  "slug": "/evaluating",
+  "permalink": "/dotnet/docs/evaluating",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "evaluating",
+    "title": "Evaluating JavaScript"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Emulation",
+    "permalink": "/dotnet/docs/emulation"
+  },
+  "next": {
+    "title": "Events",
+    "permalink": "/dotnet/docs/events"
+  }
+}

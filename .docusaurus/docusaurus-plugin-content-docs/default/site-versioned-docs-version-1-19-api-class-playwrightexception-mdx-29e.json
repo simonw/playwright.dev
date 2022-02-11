@@ -1,0 +1,26 @@
+{
+  "unversionedId": "api/class-playwrightexception",
+  "id": "version-1.19/api/class-playwrightexception",
+  "isDocsHomePage": false,
+  "title": "PlaywrightException",
+  "description": "* extends: [RuntimeException]",
+  "source": "@site/versioned_docs/version-1.19/api/class-playwrightexception.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-playwrightexception",
+  "permalink": "/java/docs/api/class-playwrightexception",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "class-playwrightexception",
+    "title": "PlaywrightException"
+  },
+  "sidebar": "version-1.19/api",
+  "previous": {
+    "title": "PlaywrightAssertions",
+    "permalink": "/java/docs/api/class-playwrightassertions"
+  },
+  "next": {
+    "title": "Request",
+    "permalink": "/java/docs/api/class-request"
+  }
+}

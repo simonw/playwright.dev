@@ -1,0 +1,26 @@
+{
+  "unversionedId": "downloads",
+  "id": "version-1.19/downloads",
+  "isDocsHomePage": false,
+  "title": "Downloads",
+  "description": "For uploading files, see the uploading files section.",
+  "source": "@site/versioned_docs/version-1.19/downloads.mdx",
+  "sourceDirName": ".",
+  "slug": "/downloads",
+  "permalink": "/dotnet/docs/downloads",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "downloads",
+    "title": "Downloads"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Dialogs",
+    "permalink": "/dotnet/docs/dialogs"
+  },
+  "next": {
+    "title": "Emulation",
+    "permalink": "/dotnet/docs/emulation"
+  }
+}

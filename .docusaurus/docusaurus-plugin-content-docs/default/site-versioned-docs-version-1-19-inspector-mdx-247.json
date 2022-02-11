@@ -1,0 +1,26 @@
+{
+  "unversionedId": "inspector",
+  "id": "version-1.19/inspector",
+  "isDocsHomePage": false,
+  "title": "Inspector",
+  "description": "Playwright Inspector is a GUI tool that helps authoring and debugging Playwright scripts.",
+  "source": "@site/versioned_docs/version-1.19/inspector.mdx",
+  "sourceDirName": ".",
+  "slug": "/inspector",
+  "permalink": "/dotnet/docs/inspector",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "inspector",
+    "title": "Inspector"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/dotnet/docs/intro"
+  },
+  "next": {
+    "title": "Trace Viewer",
+    "permalink": "/dotnet/docs/trace-viewer"
+  }
+}

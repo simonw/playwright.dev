@@ -1,0 +1,26 @@
+{
+  "unversionedId": "test-typescript",
+  "id": "version-1.19/test-typescript",
+  "isDocsHomePage": false,
+  "title": "Advanced: TypeScript",
+  "description": "Manually compile tests with TypeScript",
+  "source": "@site/versioned_docs/version-1.19/test-typescript.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-typescript",
+  "permalink": "/docs/test-typescript",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "test-typescript",
+    "title": "Advanced: TypeScript"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Advanced: fixtures",
+    "permalink": "/docs/test-fixtures"
+  },
+  "next": {
+    "title": "Library",
+    "permalink": "/docs/library"
+  }
+}

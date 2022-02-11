@@ -1,0 +1,26 @@
+{
+  "unversionedId": "test-assertions",
+  "id": "version-1.19/test-assertions",
+  "isDocsHomePage": false,
+  "title": "Assertions",
+  "description": "Playwright Test uses expect library for test assertions. This library provides a lot of matchers like toEqual, toContain, toMatch, toMatchSnapshot and many more:",
+  "source": "@site/versioned_docs/version-1.19/test-assertions.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-assertions",
+  "permalink": "/docs/test-assertions",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "test-assertions",
+    "title": "Assertions"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "API testing",
+    "permalink": "/docs/test-api-testing"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/docs/test-auth"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "test-pom",
+  "id": "version-1.19/test-pom",
+  "isDocsHomePage": false,
+  "title": "Page Object Model",
+  "description": "Page Object Model is a common pattern that introduces abstractions over web app pages to simplify interactions with them in multiple tests. It is best explained by an example.",
+  "source": "@site/versioned_docs/version-1.19/test-pom.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-pom",
+  "permalink": "/docs/test-pom",
+  "tags": [],
+  "version": "1.19",
+  "frontMatter": {
+    "id": "test-pom",
+    "title": "Page Object Model"
+  },
+  "sidebar": "version-1.19/docs",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/test-configuration"
+  },
+  "next": {
+    "title": "Parallelism and sharding",
+    "permalink": "/docs/test-parallel"
+  }
+}
