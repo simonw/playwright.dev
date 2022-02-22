@@ -4,9 +4,16 @@
         <title>Playwright .NET Blog</title>
         <link>https://playwright.dev/dotnet/blog</link>
         <description>Playwright .NET Blog</description>
-        <lastBuildDate>Wed, 09 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What's new in Playwright v1.19]]></title>
+            <link>https://playwright.dev/dotnet/blog/whats-new-in-playwright-1-19</link>
+            <guid>whats-new-in-playwright-1-19</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/z0EOFvlf14U" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[What's new in Playwright v1.18]]></title>
             <link>https://playwright.dev/dotnet/blog/whats-new-in-playwright-1-18</link>
