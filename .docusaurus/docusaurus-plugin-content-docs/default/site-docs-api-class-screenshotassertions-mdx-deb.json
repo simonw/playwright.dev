@@ -1,0 +1,17 @@
+{
+  "unversionedId": "api/class-screenshotassertions",
+  "id": "api/class-screenshotassertions",
+  "isDocsHomePage": false,
+  "title": "ScreenshotAssertions",
+  "description": "Playwright provides methods for comparing page and element screenshots with expected values stored in files. See also expect(page).toHaveScreenshot([options]) and [LocatorAssertions.toHaveScreenshot].",
+  "source": "@site/docs/api/class-screenshotassertions.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-screenshotassertions",
+  "permalink": "/docs/next/api/class-screenshotassertions",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "class-screenshotassertions",
+    "title": "ScreenshotAssertions"
+  }
+}
