@@ -12,55 +12,60 @@
         <id>whats-new-in-playwright-1-19</id>
         <link href="https://playwright.dev/blog/whats-new-in-playwright-1-19"/>
         <updated>2022-02-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/z0EOFvlf14U" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/z0EOFvlf14U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="release" term="release"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[What's new in Playwright v1.18]]></title>
         <id>whats-new-in-playwright-1-18</id>
         <link href="https://playwright.dev/blog/whats-new-in-playwright-1-18"/>
         <updated>2022-02-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/ABLYpw2BN_g" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/ABLYpw2BN_g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="release" term="release"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[What's new in Playwright v1.17]]></title>
         <id>whats-new-in-playwright-1-17</id>
         <link href="https://playwright.dev/blog/whats-new-in-playwright-1-17"/>
         <updated>2021-11-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/7iyIdeoAP04" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/7iyIdeoAP04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="release" term="release"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[What's new in Playwright v1.16]]></title>
         <id>whats-new-in-playwright-1-16</id>
         <link href="https://playwright.dev/blog/whats-new-in-playwright-1-16"/>
         <updated>2021-10-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/OQKwFDmY64g" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/OQKwFDmY64g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="release" term="release"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Heisenbug 2021: Introducing Playwright test runner]]></title>
         <id>heisenbug-introducing-playwright-test-runner</id>
         <link href="https://playwright.dev/blog/heisenbug-introducing-playwright-test-runner"/>
         <updated>2021-10-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/JjhY2aFBTTk" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/JjhY2aFBTTk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="conference" term="conference"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Four Futuristic Features]]></title>
@@ -68,65 +73,72 @@
         <link href="https://playwright.dev/blog/applitools-four-futuristic-features"/>
         <updated>2021-10-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[See here for the slides.]]></summary>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/PXTspGn1im0" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div><p>See <a href="https://docs.google.com/presentation/d/1L8Acw2xGWS-FIWu0L5NWMCOUUVJy7KGw08Z2P9sfrfo/edit?usp=sharing">here</a> for the slides.</p>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/PXTspGn1im0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div><p>See <a href="https://docs.google.com/presentation/d/1L8Acw2xGWS-FIWu0L5NWMCOUUVJy7KGw08Z2P9sfrfo/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a> for the slides.</p>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="conference" term="conference"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[What's new in Playwright v1.15]]></title>
         <id>whats-new-in-playwright-1-15</id>
         <link href="https://playwright.dev/blog/whats-new-in-playwright-1-15"/>
         <updated>2021-10-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/6RwzsDeEj7Y" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/6RwzsDeEj7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="release" term="release"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[What's new in Playwright v1.14]]></title>
         <id>whats-new-in-playwright-1-14</id>
         <link href="https://playwright.dev/blog/whats-new-in-playwright-1-14"/>
         <updated>2021-08-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/LczBDR0gOhk" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/LczBDR0gOhk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="release" term="release"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[The multi-year quest for the best web test in the west]]></title>
         <id>the-multi-year-quest-for-the-best-web-test-in-the-west</id>
         <link href="https://playwright.dev/blog/the-multi-year-quest-for-the-best-web-test-in-the-west"/>
         <updated>2021-08-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/TgyXZ1M0f9I" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/TgyXZ1M0f9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="conference" term="conference"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[A New Test Automation Framework for the Modern Web]]></title>
         <id>a-new-test-automation-framework</id>
         <link href="https://playwright.dev/blog/a-new-test-automation-framework"/>
         <updated>2021-05-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/_Jla6DyuEu4" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/_Jla6DyuEu4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="conference" term="conference"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Heisenbug 2020: Web testing without drama]]></title>
         <id>heisenbug-web-testing-without-drama</id>
         <link href="https://playwright.dev/blog/heisenbug-web-testing-without-drama"/>
         <updated>2020-08-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/ttODF00XWis" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
+        <content type="html"><![CDATA[<div class="embed-youtube"><iframe src="https://www.youtube-nocookie.com/embed/ttODF00XWis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" width="750" height="563" allowfullscreen=""></iframe></div>]]></content>
         <author>
             <name>Andrey Lushnikov</name>
             <uri>https://twitter.com/aslushnikov</uri>
         </author>
+        <category label="conference" term="conference"/>
+        <category label="russian" term="russian"/>
     </entry>
 </feed>
