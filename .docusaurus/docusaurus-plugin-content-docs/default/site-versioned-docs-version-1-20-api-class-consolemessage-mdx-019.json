@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-consolemessage",
+  "id": "version-1.20/api/class-consolemessage",
+  "title": "ConsoleMessage",
+  "description": "ConsoleMessage] objects are dispatched by page via the [event Page.Console event.",
+  "source": "@site/versioned_docs/version-1.20/api/class-consolemessage.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-consolemessage",
+  "permalink": "/dotnet/docs/api/class-consolemessage",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "class-consolemessage",
+    "title": "ConsoleMessage"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "BrowserType",
+    "permalink": "/dotnet/docs/api/class-browsertype"
+  },
+  "next": {
+    "title": "Dialog",
+    "permalink": "/dotnet/docs/api/class-dialog"
+  }
+}

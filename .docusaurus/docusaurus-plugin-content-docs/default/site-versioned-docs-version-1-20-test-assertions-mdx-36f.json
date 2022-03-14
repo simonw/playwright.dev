@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-assertions",
+  "id": "version-1.20/test-assertions",
+  "title": "Assertions",
+  "description": "Playwright gives you Web-First Assertions with convenience methods for creating assertions that will wait and retry until the expected condition is met.",
+  "source": "@site/versioned_docs/version-1.20/test-assertions.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-assertions",
+  "permalink": "/dotnet/docs/test-assertions",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "test-assertions",
+    "title": "Assertions"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Playwright",
+    "permalink": "/dotnet/docs/api/class-playwright"
+  },
+  "next": {
+    "title": "Browser",
+    "permalink": "/dotnet/docs/api/class-browser"
+  }
+}

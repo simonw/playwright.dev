@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-apirequest",
+  "id": "version-1.20/api/class-apirequest",
+  "title": "APIRequest",
+  "description": "Exposes API that can be used for the Web API testing. Each Playwright browser context has a APIRequestContext instance attached which shares cookies with the page context. Its also possible to create a new APIRequestContext instance manually. For more information see here.",
+  "source": "@site/versioned_docs/version-1.20/api/class-apirequest.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-apirequest",
+  "permalink": "/java/docs/api/class-apirequest",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "class-apirequest",
+    "title": "APIRequest"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Playwright",
+    "permalink": "/java/docs/api/class-playwright"
+  },
+  "next": {
+    "title": "APIRequestContext",
+    "permalink": "/java/docs/api/class-apirequestcontext"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-apirequestcontext",
+  "id": "version-1.20/api/class-apirequestcontext",
+  "title": "APIRequestContext",
+  "description": "This API is used for the Web API testing. You can use it to trigger API endpoints, configure micro-services, prepare environment or the service to your e2e test. When used on [Page] or a [BrowserContext], this API will automatically use the cookies from the corresponding [BrowserContext]. This means that if you log in using this API, your e2e test will be logged in and vice versa.",
+  "source": "@site/versioned_docs/version-1.20/api/class-apirequestcontext.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-apirequestcontext",
+  "permalink": "/java/docs/api/class-apirequestcontext",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "class-apirequestcontext",
+    "title": "APIRequestContext"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "APIRequest",
+    "permalink": "/java/docs/api/class-apirequest"
+  },
+  "next": {
+    "title": "APIResponse",
+    "permalink": "/java/docs/api/class-apiresponse"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-reporter",
+  "id": "version-1.20/api/class-reporter",
+  "title": "Reporter",
+  "description": "Test runner notifies the reporter about various events during test execution. All methods of the reporter are optional.",
+  "source": "@site/versioned_docs/version-1.20/api/class-reporter.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-reporter",
+  "permalink": "/docs/api/class-reporter",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "class-reporter",
+    "title": "Reporter"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Location",
+    "permalink": "/docs/api/class-location"
+  },
+  "next": {
+    "title": "Suite",
+    "permalink": "/docs/api/class-suite"
+  }
+}

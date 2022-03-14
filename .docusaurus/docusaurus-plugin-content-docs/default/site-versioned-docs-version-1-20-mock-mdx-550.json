@@ -1,0 +1,16 @@
+{
+  "unversionedId": "mock",
+  "id": "version-1.20/mock",
+  "title": "Mock APIs",
+  "description": "Playwright provides native support for most of the browser features. However, there are some experimental APIs and APIs which are not (yet) fully supported by all browsers. Playwright usually doesn't provide dedicated atomation APIs in such cases. You can use mocks to test behavior of your application in such cases. This guide gives a few examples.",
+  "source": "@site/versioned_docs/version-1.20/mock.mdx",
+  "sourceDirName": ".",
+  "slug": "/mock",
+  "permalink": "/docs/mock",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "mock",
+    "title": "Mock APIs"
+  }
+}

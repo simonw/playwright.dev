@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-timeouts",
+  "id": "version-1.20/test-timeouts",
+  "title": "Timeouts",
+  "description": "- Overview",
+  "source": "@site/versioned_docs/version-1.20/test-timeouts.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-timeouts",
+  "permalink": "/docs/test-timeouts",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "test-timeouts",
+    "title": "Timeouts"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Test retry",
+    "permalink": "/docs/test-retries"
+  },
+  "next": {
+    "title": "Visual comparisons",
+    "permalink": "/docs/test-snapshots"
+  }
+}

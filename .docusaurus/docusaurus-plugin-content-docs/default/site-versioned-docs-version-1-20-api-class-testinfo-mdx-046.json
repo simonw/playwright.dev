@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-testinfo",
+  "id": "version-1.20/api/class-testinfo",
+  "title": "TestInfo",
+  "description": "TestInfo contains information about currently running test. It is available to any test function, test.beforeEach(hookFunction) and test.afterEach(hookFunction) hooks and test-scoped fixtures. TestInfo provides utilities to control test execution: attach files, update test timeout, determine which test is currently running and whether it was retried, etc.",
+  "source": "@site/versioned_docs/version-1.20/api/class-testinfo.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-testinfo",
+  "permalink": "/docs/api/class-testinfo",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "class-testinfo",
+    "title": "TestInfo"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "TestError",
+    "permalink": "/docs/api/class-testerror"
+  },
+  "next": {
+    "title": "TestOptions",
+    "permalink": "/docs/api/class-testoptions"
+  }
+}

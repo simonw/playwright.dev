@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-mouse",
+  "id": "version-1.20/api/class-mouse",
+  "title": "Mouse",
+  "description": "The Mouse class operates in main-frame CSS pixels relative to the top-left corner of the viewport.",
+  "source": "@site/versioned_docs/version-1.20/api/class-mouse.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-mouse",
+  "permalink": "/dotnet/docs/api/class-mouse",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "class-mouse",
+    "title": "Mouse"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Locator",
+    "permalink": "/dotnet/docs/api/class-locator"
+  },
+  "next": {
+    "title": "Page",
+    "permalink": "/dotnet/docs/api/class-page"
+  }
+}

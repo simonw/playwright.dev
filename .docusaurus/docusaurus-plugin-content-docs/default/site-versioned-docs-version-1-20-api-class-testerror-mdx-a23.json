@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-testerror",
+  "id": "version-1.20/api/class-testerror",
+  "title": "TestError",
+  "description": "Information about an error thrown during test execution.",
+  "source": "@site/versioned_docs/version-1.20/api/class-testerror.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-testerror",
+  "permalink": "/docs/api/class-testerror",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "class-testerror",
+    "title": "TestError"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "TestConfig",
+    "permalink": "/docs/api/class-testconfig"
+  },
+  "next": {
+    "title": "TestInfo",
+    "permalink": "/docs/api/class-testinfo"
+  }
+}

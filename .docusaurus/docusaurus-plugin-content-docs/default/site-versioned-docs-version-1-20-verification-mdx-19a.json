@@ -1,0 +1,16 @@
+{
+  "unversionedId": "verification",
+  "id": "version-1.20/verification",
+  "title": "Verification",
+  "description": "We recommend Web-First Assertions that automatically retry until the expected condition is met instead. This helps reducing the flakiness of the tests.",
+  "source": "@site/versioned_docs/version-1.20/verification.mdx",
+  "sourceDirName": ".",
+  "slug": "/verification",
+  "permalink": "/dotnet/docs/verification",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "verification",
+    "title": "Verification"
+  }
+}

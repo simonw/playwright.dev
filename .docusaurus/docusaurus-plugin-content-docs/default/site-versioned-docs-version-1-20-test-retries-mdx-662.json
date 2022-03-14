@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-retries",
+  "id": "version-1.20/test-retries",
+  "title": "Test retry",
+  "description": "- Failures",
+  "source": "@site/versioned_docs/version-1.20/test-retries.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-retries",
+  "permalink": "/docs/test-retries",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "test-retries",
+    "title": "Test retry"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Reporters",
+    "permalink": "/docs/test-reporters"
+  },
+  "next": {
+    "title": "Timeouts",
+    "permalink": "/docs/test-timeouts"
+  }
+}

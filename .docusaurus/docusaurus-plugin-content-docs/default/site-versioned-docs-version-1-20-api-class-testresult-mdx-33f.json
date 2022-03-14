@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-testresult",
+  "id": "version-1.20/api/class-testresult",
+  "title": "TestResult",
+  "description": "A result of a single [TestCase] run.",
+  "source": "@site/versioned_docs/version-1.20/api/class-testresult.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-testresult",
+  "permalink": "/docs/api/class-testresult",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "class-testresult",
+    "title": "TestResult"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "TestCase",
+    "permalink": "/docs/api/class-testcase"
+  },
+  "next": {
+    "title": "TestStep",
+    "permalink": "/docs/api/class-teststep"
+  }
+}

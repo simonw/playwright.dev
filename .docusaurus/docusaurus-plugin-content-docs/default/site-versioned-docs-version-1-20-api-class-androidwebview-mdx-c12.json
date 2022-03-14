@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-androidwebview",
+  "id": "version-1.20/api/class-androidwebview",
+  "title": "AndroidWebView",
+  "description": "AndroidWebView] represents a WebView open on the [AndroidDevice]. WebView is usually obtained using [androidDevice.webView(selector[, options]).",
+  "source": "@site/versioned_docs/version-1.20/api/class-androidwebview.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-androidwebview",
+  "permalink": "/docs/api/class-androidwebview",
+  "tags": [],
+  "version": "1.20",
+  "frontMatter": {
+    "id": "class-androidwebview",
+    "title": "AndroidWebView"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "AndroidSocket",
+    "permalink": "/docs/api/class-androidsocket"
+  },
+  "next": {
+    "title": "Electron",
+    "permalink": "/docs/api/class-electron"
+  }
+}
