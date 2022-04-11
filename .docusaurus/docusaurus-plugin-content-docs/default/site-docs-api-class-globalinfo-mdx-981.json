@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-globalinfo",
+  "id": "api/class-globalinfo",
+  "title": "GlobalInfo",
+  "description": "GlobalInfo contains information on the overall test run. The information spans projects and tests. Some reporters show global info.",
+  "source": "@site/docs/api/class-globalinfo.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-globalinfo",
+  "permalink": "/docs/next/api/class-globalinfo",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "class-globalinfo",
+    "title": "GlobalInfo"
+  }
+}
