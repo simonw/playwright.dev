@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-browser",
+  "id": "version-1.21/api/class-browser",
+  "title": "Browser",
+  "description": "* extends: [EventEmitter]",
+  "source": "@site/versioned_docs/version-1.21/api/class-browser.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-browser",
+  "permalink": "/dotnet/docs/api/class-browser",
+  "tags": [],
+  "version": "1.21",
+  "frontMatter": {
+    "id": "class-browser",
+    "title": "Browser"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Assertions",
+    "permalink": "/dotnet/docs/test-assertions"
+  },
+  "next": {
+    "title": "BrowserContext",
+    "permalink": "/dotnet/docs/api/class-browsercontext"
+  }
+}

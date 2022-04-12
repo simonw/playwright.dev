@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-android",
+  "id": "version-1.21/api/class-android",
+  "title": "Android",
+  "description": "Playwright has experimental support for Android automation. This includes Chrome for Android and Android WebView.",
+  "source": "@site/versioned_docs/version-1.21/api/class-android.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-android",
+  "permalink": "/docs/api/class-android",
+  "tags": [],
+  "version": "1.21",
+  "frontMatter": {
+    "id": "class-android",
+    "title": "Android"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "TestStep",
+    "permalink": "/docs/api/class-teststep"
+  },
+  "next": {
+    "title": "AndroidDevice",
+    "permalink": "/docs/api/class-androiddevice"
+  }
+}

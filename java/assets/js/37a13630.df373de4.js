@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplaywright_dev=self.webpackChunkplaywright_dev||[]).push([[3185],{12133:function(a){a.exports=JSON.parse('{"allTagsPath":"/java/blog/tags","slug":"/java/blog/tags/release","name":"release","count":6,"permalink":"/java/blog/tags/release"}')}}]);
