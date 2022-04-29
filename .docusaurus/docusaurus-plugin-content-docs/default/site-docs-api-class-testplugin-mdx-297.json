@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-testplugin",
+  "id": "api/class-testplugin",
+  "title": "TestPlugin",
+  "description": "- testPlugin.configure(config, configDir)",
+  "source": "@site/docs/api/class-testplugin.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-testplugin",
+  "permalink": "/docs/next/api/class-testplugin",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "class-testplugin",
+    "title": "TestPlugin"
+  }
+}
