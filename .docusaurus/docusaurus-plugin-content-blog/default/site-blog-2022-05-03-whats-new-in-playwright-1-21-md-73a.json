@@ -1,0 +1,40 @@
+{
+  "permalink": "/dotnet/blog/whats-new-in-playwright-1-21",
+  "editUrl": "https://github.com/microsoft/playwright.dev/edit/master/blog/2022-05-03-whats-new-in-playwright-1-21.md",
+  "source": "@site/blog/2022-05-03-whats-new-in-playwright-1-21.md",
+  "title": "What's new in Playwright v1.21",
+  "description": "",
+  "date": "2022-05-03T00:00:00.000Z",
+  "formattedDate": "May 3, 2022",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/dotnet/blog/tags/release"
+    }
+  ],
+  "readingTime": 0.075,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Andrey Lushnikov",
+      "title": "Playwright team",
+      "url": "https://twitter.com/aslushnikov",
+      "imageURL": "https://avatars.githubusercontent.com/u/746130?v=4"
+    }
+  ],
+  "frontMatter": {
+    "slug": "whats-new-in-playwright-1-21",
+    "title": "What's new in Playwright v1.21",
+    "author": "Andrey Lushnikov",
+    "author_title": "Playwright team",
+    "author_url": "https://twitter.com/aslushnikov",
+    "author_image_url": "https://avatars.githubusercontent.com/u/746130?v=4",
+    "tags": [
+      "release"
+    ]
+  },
+  "nextItem": {
+    "title": "What's new in Playwright v1.20",
+    "permalink": "/dotnet/blog/whats-new-in-playwright-1-20"
+  }
+}
