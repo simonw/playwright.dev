@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-runners",
+  "id": "version-1.22/test-runners",
+  "title": "Test Runners",
+  "description": "While Playwright for .NET isn't tied to a particular test runner or testing framework, in our experience it works best with the built-in .NET test runner, and using NUnit as the test framework. NUnit is also what we use internally for our tests.",
+  "source": "@site/versioned_docs/version-1.22/test-runners.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-runners",
+  "permalink": "/dotnet/docs/test-runners",
+  "tags": [],
+  "version": "1.22",
+  "frontMatter": {
+    "id": "test-runners",
+    "title": "Test Runners"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Release notes",
+    "permalink": "/dotnet/docs/release-notes"
+  },
+  "next": {
+    "title": "Auto-waiting",
+    "permalink": "/dotnet/docs/actionability"
+  }
+}

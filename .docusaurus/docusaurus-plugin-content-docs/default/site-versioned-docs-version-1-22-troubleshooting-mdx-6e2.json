@@ -1,0 +1,16 @@
+{
+  "unversionedId": "troubleshooting",
+  "id": "version-1.22/troubleshooting",
+  "title": "Troubleshooting",
+  "description": "- Browser dependencies",
+  "source": "@site/versioned_docs/version-1.22/troubleshooting.mdx",
+  "sourceDirName": ".",
+  "slug": "/troubleshooting",
+  "permalink": "/docs/troubleshooting",
+  "tags": [],
+  "version": "1.22",
+  "frontMatter": {
+    "id": "troubleshooting",
+    "title": "Troubleshooting"
+  }
+}

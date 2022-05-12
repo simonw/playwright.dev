@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-testconfig",
+  "id": "version-1.22/api/class-testconfig",
+  "title": "TestConfig",
+  "description": "Playwright Test provides many options to configure how your tests are collected and executed, for example timeout or testDir. These options are described in the TestConfig] object in the [configuration file.",
+  "source": "@site/versioned_docs/version-1.22/api/class-testconfig.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-testconfig",
+  "permalink": "/docs/api/class-testconfig",
+  "tags": [],
+  "version": "1.22",
+  "frontMatter": {
+    "id": "class-testconfig",
+    "title": "TestConfig"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Playwright Test",
+    "permalink": "/docs/api/class-test"
+  },
+  "next": {
+    "title": "TestError",
+    "permalink": "/docs/api/class-testerror"
+  }
+}

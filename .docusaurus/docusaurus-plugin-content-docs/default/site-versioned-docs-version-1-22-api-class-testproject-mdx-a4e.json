@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-testproject",
+  "id": "version-1.22/api/class-testproject",
+  "title": "TestProject",
+  "description": "Playwright Test supports running multiple test projects at the same time. This is useful for running tests in multiple configurations. For example, consider running tests against multiple browsers.",
+  "source": "@site/versioned_docs/version-1.22/api/class-testproject.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-testproject",
+  "permalink": "/docs/api/class-testproject",
+  "tags": [],
+  "version": "1.22",
+  "frontMatter": {
+    "id": "class-testproject",
+    "title": "TestProject"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "TestOptions",
+    "permalink": "/docs/api/class-testoptions"
+  },
+  "next": {
+    "title": "TimeoutError",
+    "permalink": "/docs/api/class-timeouterror"
+  }
+}

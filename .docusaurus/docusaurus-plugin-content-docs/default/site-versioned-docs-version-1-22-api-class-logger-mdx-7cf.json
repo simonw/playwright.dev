@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-logger",
+  "id": "version-1.22/api/class-logger",
+  "title": "Logger",
+  "description": "Playwright generates a lot of logs and they are accessible via the pluggable logger sink.",
+  "source": "@site/versioned_docs/version-1.22/api/class-logger.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-logger",
+  "permalink": "/docs/api/class-logger",
+  "tags": [],
+  "version": "1.22",
+  "frontMatter": {
+    "id": "class-logger",
+    "title": "Logger"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Locator",
+    "permalink": "/docs/api/class-locator"
+  },
+  "next": {
+    "title": "Mouse",
+    "permalink": "/docs/api/class-mouse"
+  }
+}

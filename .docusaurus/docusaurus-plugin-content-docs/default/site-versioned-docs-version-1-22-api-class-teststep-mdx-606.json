@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-teststep",
+  "id": "version-1.22/api/class-teststep",
+  "title": "TestStep",
+  "description": "Represents a step in the [TestRun].",
+  "source": "@site/versioned_docs/version-1.22/api/class-teststep.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-teststep",
+  "permalink": "/docs/api/class-teststep",
+  "tags": [],
+  "version": "1.22",
+  "frontMatter": {
+    "id": "class-teststep",
+    "title": "TestStep"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "TestResult",
+    "permalink": "/docs/api/class-testresult"
+  },
+  "next": {
+    "title": "Android",
+    "permalink": "/docs/api/class-android"
+  }
+}

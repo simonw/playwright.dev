@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-locator",
+  "id": "version-1.22/api/class-locator",
+  "title": "Locator",
+  "description": "Locators are the central piece of Playwright's auto-waiting and retry-ability. In a nutshell, locators represent a way to find element(s) on the page at any moment. Locator can be created with the Page.Locator(selector, options) method.",
+  "source": "@site/versioned_docs/version-1.22/api/class-locator.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-locator",
+  "permalink": "/dotnet/docs/api/class-locator",
+  "tags": [],
+  "version": "1.22",
+  "frontMatter": {
+    "id": "class-locator",
+    "title": "Locator"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Keyboard",
+    "permalink": "/dotnet/docs/api/class-keyboard"
+  },
+  "next": {
+    "title": "Mouse",
+    "permalink": "/dotnet/docs/api/class-mouse"
+  }
+}

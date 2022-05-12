@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-location",
+  "id": "version-1.22/api/class-location",
+  "title": "Location",
+  "description": "Represents a location in the source code where [TestCase] or [Suite] is defined.",
+  "source": "@site/versioned_docs/version-1.22/api/class-location.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-location",
+  "permalink": "/docs/api/class-location",
+  "tags": [],
+  "version": "1.22",
+  "frontMatter": {
+    "id": "class-location",
+    "title": "Location"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "TimeoutError",
+    "permalink": "/docs/api/class-timeouterror"
+  },
+  "next": {
+    "title": "Reporter",
+    "permalink": "/docs/api/class-reporter"
+  }
+}
