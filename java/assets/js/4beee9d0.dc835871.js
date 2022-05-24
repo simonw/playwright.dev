@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplaywright_dev=self.webpackChunkplaywright_dev||[]).push([[4390],{946:function(a){a.exports=JSON.parse('{"allTagsPath":"/java/blog/tags","name":"russian","count":1,"permalink":"/java/blog/tags/russian"}')}}]);

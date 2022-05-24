@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkplaywright_dev=self.webpackChunkplaywright_dev||[]).push([[4913],{22381:function(e){e.exports=JSON.parse('{"permalink":"/java/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":14,"previousPage":"/java/blog","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

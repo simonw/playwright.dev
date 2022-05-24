@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplaywright_dev=self.webpackChunkplaywright_dev||[]).push([[7431],{2461:function(e){e.exports=JSON.parse('{"allTagsPath":"/python/blog/tags","name":"release","count":9,"permalink":"/python/blog/tags/release"}')}}]);
