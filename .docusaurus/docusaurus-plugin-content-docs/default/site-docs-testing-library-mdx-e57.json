@@ -1,0 +1,16 @@
+{
+  "unversionedId": "testing-library",
+  "id": "testing-library",
+  "title": "Migrating from Testing Library",
+  "description": "- Migration principles",
+  "source": "@site/docs/testing-library.mdx",
+  "sourceDirName": ".",
+  "slug": "/testing-library",
+  "permalink": "/docs/next/testing-library",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "testing-library",
+    "title": "Migrating from Testing Library"
+  }
+}
