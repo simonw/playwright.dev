@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-formdata",
+  "id": "version-1.23/api/class-formdata",
+  "title": "FormData",
+  "description": "The [FormData] is used create form data that is sent via [APIRequestContext].",
+  "source": "@site/versioned_docs/version-1.23/api/class-formdata.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-formdata",
+  "permalink": "/dotnet/docs/api/class-formdata",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "class-formdata",
+    "title": "FormData"
+  }
+}

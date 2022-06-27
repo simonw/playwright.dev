@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-components",
+  "id": "version-1.23/test-components",
+  "title": "Experimental: components",
+  "description": "Playwright Test can now test your components.",
+  "source": "@site/versioned_docs/version-1.23/test-components.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-components",
+  "permalink": "/docs/test-components",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "test-components",
+    "title": "Experimental: components"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "TypeScript",
+    "permalink": "/docs/test-typescript"
+  },
+  "next": {
+    "title": "Library",
+    "permalink": "/docs/library"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-request",
+  "id": "version-1.23/api/class-request",
+  "title": "Request",
+  "description": "Whenever the page sends a request for a network resource the following sequence of events are emitted by [Page]:",
+  "source": "@site/versioned_docs/version-1.23/api/class-request.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-request",
+  "permalink": "/dotnet/docs/api/class-request",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "class-request",
+    "title": "Request"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Page",
+    "permalink": "/dotnet/docs/api/class-page"
+  },
+  "next": {
+    "title": "Response",
+    "permalink": "/dotnet/docs/api/class-response"
+  }
+}

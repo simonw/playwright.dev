@@ -1,0 +1,25 @@
+{
+  "unversionedId": "selectors",
+  "id": "version-1.23/selectors",
+  "title": "Selectors",
+  "description": "Selectors are strings that are used to create Locator]s. Locators are used to perform actions on the elements by means of methods such as [Locator.ClickAsync(options), Locator.FillAsync(value, options) and alike.",
+  "source": "@site/versioned_docs/version-1.23/selectors.mdx",
+  "sourceDirName": ".",
+  "slug": "/selectors",
+  "permalink": "/dotnet/docs/selectors",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "selectors",
+    "title": "Selectors"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Screenshots",
+    "permalink": "/dotnet/docs/screenshots"
+  },
+  "next": {
+    "title": "Videos",
+    "permalink": "/dotnet/docs/videos"
+  }
+}

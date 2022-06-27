@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-auth",
+  "id": "version-1.23/test-auth",
+  "title": "Authentication",
+  "description": "Tests written with Playwright execute in isolated clean-slate environments called browser contexts. Each test gets a brand new page created in a brand new context. This isolation model improves reproducibility and prevents cascading test failures.",
+  "source": "@site/versioned_docs/version-1.23/test-auth.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-auth",
+  "permalink": "/docs/test-auth",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "test-auth",
+    "title": "Authentication"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Assertions",
+    "permalink": "/docs/test-assertions"
+  },
+  "next": {
+    "title": "Command line",
+    "permalink": "/docs/test-cli"
+  }
+}

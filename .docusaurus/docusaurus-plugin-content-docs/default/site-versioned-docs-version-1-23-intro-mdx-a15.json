@@ -1,0 +1,21 @@
+{
+  "unversionedId": "intro",
+  "id": "version-1.23/intro",
+  "title": "Getting started",
+  "description": "- First project",
+  "source": "@site/versioned_docs/version-1.23/intro.mdx",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/dotnet/docs/intro",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Getting started"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Inspector",
+    "permalink": "/dotnet/docs/inspector"
+  }
+}

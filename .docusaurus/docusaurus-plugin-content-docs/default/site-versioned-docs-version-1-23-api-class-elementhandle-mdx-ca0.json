@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-elementhandle",
+  "id": "version-1.23/api/class-elementhandle",
+  "title": "ElementHandle",
+  "description": "* extends: [JSHandle]",
+  "source": "@site/versioned_docs/version-1.23/api/class-elementhandle.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-elementhandle",
+  "permalink": "/dotnet/docs/api/class-elementhandle",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "class-elementhandle",
+    "title": "ElementHandle"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Download",
+    "permalink": "/dotnet/docs/api/class-download"
+  },
+  "next": {
+    "title": "FileChooser",
+    "permalink": "/dotnet/docs/api/class-filechooser"
+  }
+}

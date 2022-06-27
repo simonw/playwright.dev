@@ -1,0 +1,25 @@
+{
+  "unversionedId": "emulation",
+  "id": "version-1.23/emulation",
+  "title": "Emulation",
+  "description": "Playwright allows overriding various parameters of the device where the browser is running:",
+  "source": "@site/versioned_docs/version-1.23/emulation.mdx",
+  "sourceDirName": ".",
+  "slug": "/emulation",
+  "permalink": "/dotnet/docs/emulation",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "emulation",
+    "title": "Emulation"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Downloads",
+    "permalink": "/dotnet/docs/downloads"
+  },
+  "next": {
+    "title": "Evaluating JavaScript",
+    "permalink": "/dotnet/docs/evaluating"
+  }
+}

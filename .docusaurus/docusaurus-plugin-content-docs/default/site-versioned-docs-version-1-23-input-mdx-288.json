@@ -1,0 +1,25 @@
+{
+  "unversionedId": "input",
+  "id": "version-1.23/input",
+  "title": "Input",
+  "description": "- Text input",
+  "source": "@site/versioned_docs/version-1.23/input.mdx",
+  "sourceDirName": ".",
+  "slug": "/input",
+  "permalink": "/dotnet/docs/input",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "input",
+    "title": "Input"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Handles",
+    "permalink": "/dotnet/docs/handles"
+  },
+  "next": {
+    "title": "Locators",
+    "permalink": "/dotnet/docs/locators"
+  }
+}

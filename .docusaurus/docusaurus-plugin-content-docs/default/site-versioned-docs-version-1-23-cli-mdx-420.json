@@ -1,0 +1,25 @@
+{
+  "unversionedId": "cli",
+  "id": "version-1.23/cli",
+  "title": "Command line tools",
+  "description": "Playwright comes with the command line tools.",
+  "source": "@site/versioned_docs/version-1.23/cli.mdx",
+  "sourceDirName": ".",
+  "slug": "/cli",
+  "permalink": "/dotnet/docs/cli",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "cli",
+    "title": "Command line tools"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Browser Contexts",
+    "permalink": "/dotnet/docs/browser-contexts"
+  },
+  "next": {
+    "title": "Dialogs",
+    "permalink": "/dotnet/docs/dialogs"
+  }
+}

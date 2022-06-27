@@ -1,0 +1,25 @@
+{
+  "unversionedId": "protractor",
+  "id": "version-1.23/protractor",
+  "title": "Migrating from Protractor",
+  "description": "- Migration Principles",
+  "source": "@site/versioned_docs/version-1.23/protractor.mdx",
+  "sourceDirName": ".",
+  "slug": "/protractor",
+  "permalink": "/docs/protractor",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "protractor",
+    "title": "Migrating from Protractor"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Videos",
+    "permalink": "/docs/videos"
+  },
+  "next": {
+    "title": "Migrating from Testing Library",
+    "permalink": "/docs/testing-library"
+  }
+}

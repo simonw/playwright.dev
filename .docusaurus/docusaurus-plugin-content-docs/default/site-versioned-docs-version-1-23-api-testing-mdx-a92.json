@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api-testing",
+  "id": "version-1.23/api-testing",
+  "title": "API testing",
+  "description": "Playwright can be used to get access to the REST API of your application.",
+  "source": "@site/versioned_docs/version-1.23/api-testing.mdx",
+  "sourceDirName": ".",
+  "slug": "/api-testing",
+  "permalink": "/dotnet/docs/api-testing",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "api-testing",
+    "title": "API testing"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Auto-waiting",
+    "permalink": "/dotnet/docs/actionability"
+  },
+  "next": {
+    "title": "Assertions",
+    "permalink": "/dotnet/docs/test-assertions"
+  }
+}

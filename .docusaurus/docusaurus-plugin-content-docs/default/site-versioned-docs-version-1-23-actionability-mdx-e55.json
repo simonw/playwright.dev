@@ -1,0 +1,25 @@
+{
+  "unversionedId": "actionability",
+  "id": "version-1.23/actionability",
+  "title": "Auto-waiting",
+  "description": "Playwright performs a range of actionability checks on the elements before making actions to ensure these actions behave as expected. It auto-waits for all the relevant checks to pass and only then performs the requested action. If the required checks do not pass within the given timeout, action fails with the TimeoutError.",
+  "source": "@site/versioned_docs/version-1.23/actionability.mdx",
+  "sourceDirName": ".",
+  "slug": "/actionability",
+  "permalink": "/dotnet/docs/actionability",
+  "tags": [],
+  "version": "1.23",
+  "frontMatter": {
+    "id": "actionability",
+    "title": "Auto-waiting"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Test Runners",
+    "permalink": "/dotnet/docs/test-runners"
+  },
+  "next": {
+    "title": "API testing",
+    "permalink": "/dotnet/docs/api-testing"
+  }
+}
