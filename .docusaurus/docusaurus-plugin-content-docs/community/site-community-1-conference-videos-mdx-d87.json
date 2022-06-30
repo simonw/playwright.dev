@@ -1,0 +1,19 @@
+{
+  "unversionedId": "conference-videos",
+  "id": "conference-videos",
+  "title": "Conference Videos",
+  "description": "Craft Conf 2022: Testing Web Applications with Playwright",
+  "source": "@site/community/1-conference-videos.mdx",
+  "sourceDirName": ".",
+  "slug": "/conference-videos",
+  "permalink": "/community/conference-videos",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "community",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/community/welcome"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "welcome",
+  "id": "welcome",
+  "title": "Welcome",
+  "description": "Welcome to the Playwright Community.",
+  "source": "@site/community/0-welcome.mdx",
+  "sourceDirName": ".",
+  "slug": "/welcome",
+  "permalink": "/community/welcome",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "community",
+  "next": {
+    "title": "Conference Videos",
+    "permalink": "/community/conference-videos"
+  }
+}
