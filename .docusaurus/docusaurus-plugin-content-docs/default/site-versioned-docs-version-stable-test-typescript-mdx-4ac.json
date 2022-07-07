@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-typescript",
+  "id": "version-stable/test-typescript",
+  "title": "TypeScript",
+  "description": "Playwright Test supports TypeScript out of the box. You just write tests in TypeScript and Playwright Test will read them, transform to JavaScript and run. This works both with CommonJS modules and ECMAScript modules.",
+  "source": "@site/versioned_docs/version-stable/test-typescript.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-typescript",
+  "permalink": "/docs/test-typescript",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "test-typescript",
+    "title": "TypeScript"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Advanced: fixtures",
+    "permalink": "/docs/test-fixtures"
+  },
+  "next": {
+    "title": "Experimental: components",
+    "permalink": "/docs/test-components"
+  }
+}

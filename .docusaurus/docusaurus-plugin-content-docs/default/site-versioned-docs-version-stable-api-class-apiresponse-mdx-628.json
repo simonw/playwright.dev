@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-apiresponse",
+  "id": "version-stable/api/class-apiresponse",
+  "title": "APIResponse",
+  "description": "APIResponse] class represents responses returned by [ApiRequestContext.GetAsync(url, options) and similar methods.",
+  "source": "@site/versioned_docs/version-stable/api/class-apiresponse.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-apiresponse",
+  "permalink": "/dotnet/docs/api/class-apiresponse",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "class-apiresponse",
+    "title": "APIResponse"
+  }
+}

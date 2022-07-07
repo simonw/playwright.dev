@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-androidinput",
+  "id": "version-stable/api/class-androidinput",
+  "title": "AndroidInput",
+  "description": "- androidInput.drag(from, to, steps)",
+  "source": "@site/versioned_docs/version-stable/api/class-androidinput.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-androidinput",
+  "permalink": "/docs/api/class-androidinput",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "class-androidinput",
+    "title": "AndroidInput"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "AndroidDevice",
+    "permalink": "/docs/api/class-androiddevice"
+  },
+  "next": {
+    "title": "AndroidSocket",
+    "permalink": "/docs/api/class-androidsocket"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-fixtures",
+  "id": "version-stable/test-fixtures",
+  "title": "Advanced: fixtures",
+  "description": "- Introduction to fixtures",
+  "source": "@site/versioned_docs/version-stable/test-fixtures.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-fixtures",
+  "permalink": "/docs/test-fixtures",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "test-fixtures",
+    "title": "Advanced: fixtures"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Advanced: configuration",
+    "permalink": "/docs/test-advanced"
+  },
+  "next": {
+    "title": "TypeScript",
+    "permalink": "/docs/test-typescript"
+  }
+}

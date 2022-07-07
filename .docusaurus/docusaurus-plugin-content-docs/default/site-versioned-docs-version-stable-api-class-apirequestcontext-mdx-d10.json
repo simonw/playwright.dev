@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-apirequestcontext",
+  "id": "version-stable/api/class-apirequestcontext",
+  "title": "APIRequestContext",
+  "description": "This API is used for the Web API testing. You can use it to trigger API endpoints, configure micro-services, prepare environment or the service to your e2e test.",
+  "source": "@site/versioned_docs/version-stable/api/class-apirequestcontext.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-apirequestcontext",
+  "permalink": "/dotnet/docs/api/class-apirequestcontext",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "class-apirequestcontext",
+    "title": "APIRequestContext"
+  }
+}

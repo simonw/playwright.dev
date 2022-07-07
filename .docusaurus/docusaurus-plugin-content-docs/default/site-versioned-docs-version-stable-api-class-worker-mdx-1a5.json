@@ -1,0 +1,21 @@
+{
+  "unversionedId": "api/class-worker",
+  "id": "version-stable/api/class-worker",
+  "title": "Worker",
+  "description": "The Worker class represents a WebWorker. worker event is emitted on the page object to signal a worker creation. close event is emitted on the worker object when the worker is gone.",
+  "source": "@site/versioned_docs/version-stable/api/class-worker.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-worker",
+  "permalink": "/dotnet/docs/api/class-worker",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "class-worker",
+    "title": "Worker"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "WebSocketFrame",
+    "permalink": "/dotnet/docs/api/class-websocketframe"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "extensibility",
+  "id": "version-stable/extensibility",
+  "title": "Extensibility",
+  "description": "- Custom selector engines",
+  "source": "@site/versioned_docs/version-stable/extensibility.mdx",
+  "sourceDirName": ".",
+  "slug": "/extensibility",
+  "permalink": "/dotnet/docs/extensibility",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "extensibility",
+    "title": "Extensibility"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Events",
+    "permalink": "/dotnet/docs/events"
+  },
+  "next": {
+    "title": "Frames",
+    "permalink": "/dotnet/docs/frames"
+  }
+}

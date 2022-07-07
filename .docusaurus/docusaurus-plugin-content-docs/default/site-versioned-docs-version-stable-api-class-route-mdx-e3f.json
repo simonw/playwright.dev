@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-route",
+  "id": "version-stable/api/class-route",
+  "title": "Route",
+  "description": "Whenever a network route is set up with Page.RouteAsync(url, handler, options) or BrowserContext.RouteAsync(url, handler, options), the Route object allows to handle the route.",
+  "source": "@site/versioned_docs/version-stable/api/class-route.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-route",
+  "permalink": "/dotnet/docs/api/class-route",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "class-route",
+    "title": "Route"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Response",
+    "permalink": "/dotnet/docs/api/class-response"
+  },
+  "next": {
+    "title": "Selectors",
+    "permalink": "/dotnet/docs/api/class-selectors"
+  }
+}

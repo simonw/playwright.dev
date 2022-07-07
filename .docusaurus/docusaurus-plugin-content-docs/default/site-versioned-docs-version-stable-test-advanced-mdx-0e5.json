@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-advanced",
+  "id": "version-stable/test-advanced",
+  "title": "Advanced: configuration",
+  "description": "- Configuration object",
+  "source": "@site/versioned_docs/version-stable/test-advanced.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-advanced",
+  "permalink": "/docs/test-advanced",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "test-advanced",
+    "title": "Advanced: configuration"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Visual comparisons",
+    "permalink": "/docs/test-snapshots"
+  },
+  "next": {
+    "title": "Advanced: fixtures",
+    "permalink": "/docs/test-fixtures"
+  }
+}

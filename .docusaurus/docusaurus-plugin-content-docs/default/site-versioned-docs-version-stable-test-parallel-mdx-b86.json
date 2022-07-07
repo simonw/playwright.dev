@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-parallel",
+  "id": "version-stable/test-parallel",
+  "title": "Parallelism and sharding",
+  "description": "Playwright Test runs tests in parallel. In order to achieve that, it runs several worker processes that run at the same time.",
+  "source": "@site/versioned_docs/version-stable/test-parallel.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-parallel",
+  "permalink": "/docs/test-parallel",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "test-parallel",
+    "title": "Parallelism and sharding"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Page Object Model",
+    "permalink": "/docs/test-pom"
+  },
+  "next": {
+    "title": "Parametrize tests",
+    "permalink": "/docs/test-parameterize"
+  }
+}

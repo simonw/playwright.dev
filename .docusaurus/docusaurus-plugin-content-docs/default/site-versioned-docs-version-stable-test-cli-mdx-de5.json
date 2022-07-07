@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-cli",
+  "id": "version-stable/test-cli",
+  "title": "Command line",
+  "description": "- Examples",
+  "source": "@site/versioned_docs/version-stable/test-cli.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-cli",
+  "permalink": "/docs/test-cli",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "test-cli",
+    "title": "Command line"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/docs/test-auth"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/test-configuration"
+  }
+}

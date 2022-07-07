@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-selectors",
+  "id": "version-stable/api/class-selectors",
+  "title": "Selectors",
+  "description": "Selectors can be used to install custom selector engines. See Working with selectors for more information.",
+  "source": "@site/versioned_docs/version-stable/api/class-selectors.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-selectors",
+  "permalink": "/dotnet/docs/api/class-selectors",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "class-selectors",
+    "title": "Selectors"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Route",
+    "permalink": "/dotnet/docs/api/class-route"
+  },
+  "next": {
+    "title": "TimeoutError",
+    "permalink": "/dotnet/docs/api/class-timeouterror"
+  }
+}

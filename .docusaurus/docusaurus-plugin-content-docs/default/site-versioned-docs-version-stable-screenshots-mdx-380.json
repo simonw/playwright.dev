@@ -1,0 +1,25 @@
+{
+  "unversionedId": "screenshots",
+  "id": "version-stable/screenshots",
+  "title": "Screenshots",
+  "description": "Here is a quick way to capture a screenshot and save it into a file:",
+  "source": "@site/versioned_docs/version-stable/screenshots.mdx",
+  "sourceDirName": ".",
+  "slug": "/screenshots",
+  "permalink": "/dotnet/docs/screenshots",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "screenshots",
+    "title": "Screenshots"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Page Object Models",
+    "permalink": "/dotnet/docs/pom"
+  },
+  "next": {
+    "title": "Selectors",
+    "permalink": "/dotnet/docs/selectors"
+  }
+}

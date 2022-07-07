@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-requestoptions",
+  "id": "version-stable/api/class-requestoptions",
+  "title": "RequestOptions",
+  "description": "The [RequestOptions] allows to create form data to be sent via [APIRequestContext].",
+  "source": "@site/versioned_docs/version-stable/api/class-requestoptions.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-requestoptions",
+  "permalink": "/java/docs/api/class-requestoptions",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "class-requestoptions",
+    "title": "RequestOptions"
+  }
+}

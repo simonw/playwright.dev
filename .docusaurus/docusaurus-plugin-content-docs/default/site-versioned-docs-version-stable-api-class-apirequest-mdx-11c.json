@@ -1,0 +1,16 @@
+{
+  "unversionedId": "api/class-apirequest",
+  "id": "version-stable/api/class-apirequest",
+  "title": "APIRequest",
+  "description": "Exposes API that can be used for the Web API testing. This class is used for creating APIRequestContext] instance which in turn can be used for sending web requests. An instance of this class can be obtained via [Playwright.APIRequest. For more information see [APIRequestContext].",
+  "source": "@site/versioned_docs/version-stable/api/class-apirequest.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-apirequest",
+  "permalink": "/dotnet/docs/api/class-apirequest",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "class-apirequest",
+    "title": "APIRequest"
+  }
+}

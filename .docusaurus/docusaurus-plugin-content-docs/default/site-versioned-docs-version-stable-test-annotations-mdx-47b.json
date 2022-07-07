@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-annotations",
+  "id": "version-stable/test-annotations",
+  "title": "Annotations",
+  "description": "- Annotations",
+  "source": "@site/versioned_docs/version-stable/test-annotations.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-annotations",
+  "permalink": "/docs/test-annotations",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "test-annotations",
+    "title": "Annotations"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Release notes",
+    "permalink": "/docs/release-notes"
+  },
+  "next": {
+    "title": "API testing",
+    "permalink": "/docs/test-api-testing"
+  }
+}

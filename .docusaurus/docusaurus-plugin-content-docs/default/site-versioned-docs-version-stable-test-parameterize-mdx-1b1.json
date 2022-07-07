@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-parameterize",
+  "id": "version-stable/test-parameterize",
+  "title": "Parametrize tests",
+  "description": "You can either parametrize tests on a test level or on a project level.",
+  "source": "@site/versioned_docs/version-stable/test-parameterize.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-parameterize",
+  "permalink": "/docs/test-parameterize",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "test-parameterize",
+    "title": "Parametrize tests"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Parallelism and sharding",
+    "permalink": "/docs/test-parallel"
+  },
+  "next": {
+    "title": "Reporters",
+    "permalink": "/docs/test-reporters"
+  }
+}

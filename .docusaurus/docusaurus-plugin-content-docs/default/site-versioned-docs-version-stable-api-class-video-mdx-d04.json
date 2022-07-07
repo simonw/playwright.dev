@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-video",
+  "id": "version-stable/api/class-video",
+  "title": "Video",
+  "description": "When browser context is created with the recordVideo option, each page has a video object associated with it.",
+  "source": "@site/versioned_docs/version-stable/api/class-video.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-video",
+  "permalink": "/dotnet/docs/api/class-video",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "class-video",
+    "title": "Video"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Tracing",
+    "permalink": "/dotnet/docs/api/class-tracing"
+  },
+  "next": {
+    "title": "WebSocket",
+    "permalink": "/dotnet/docs/api/class-websocket"
+  }
+}

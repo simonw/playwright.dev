@@ -1,0 +1,25 @@
+{
+  "unversionedId": "testing-library",
+  "id": "version-stable/testing-library",
+  "title": "Migrating from Testing Library",
+  "description": "- Migration principles",
+  "source": "@site/versioned_docs/version-stable/testing-library.mdx",
+  "sourceDirName": ".",
+  "slug": "/testing-library",
+  "permalink": "/docs/testing-library",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "testing-library",
+    "title": "Migrating from Testing Library"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Migrating from Protractor",
+    "permalink": "/docs/protractor"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/docker"
+  }
+}

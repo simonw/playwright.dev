@@ -1,0 +1,25 @@
+{
+  "unversionedId": "release-notes",
+  "id": "version-stable/release-notes",
+  "title": "Release notes",
+  "description": "- Version 1.23",
+  "source": "@site/versioned_docs/version-stable/release-notes.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/dotnet/docs/release-notes",
+  "tags": [],
+  "version": "stable",
+  "frontMatter": {
+    "id": "release-notes",
+    "title": "Release notes"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Debugging tools",
+    "permalink": "/dotnet/docs/debug"
+  },
+  "next": {
+    "title": "Test Runners",
+    "permalink": "/dotnet/docs/test-runners"
+  }
+}
