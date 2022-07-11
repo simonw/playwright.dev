@@ -1,0 +1,16 @@
+{
+  "unversionedId": "vs-code-extension",
+  "id": "vs-code-extension",
+  "title": "VS Code Extension",
+  "description": "Install the VS Code extension from the marketplace.",
+  "source": "@site/docs/vs-code-extension.mdx",
+  "sourceDirName": ".",
+  "slug": "/vs-code-extension",
+  "permalink": "/docs/next/vs-code-extension",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "vs-code-extension",
+    "title": "VS Code Extension"
+  }
+}

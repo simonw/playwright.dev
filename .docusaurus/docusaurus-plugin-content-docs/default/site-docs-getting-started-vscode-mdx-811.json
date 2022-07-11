@@ -1,0 +1,16 @@
+{
+  "unversionedId": "getting-started-vscode",
+  "id": "getting-started-vscode",
+  "title": "Getting started (VS Code)",
+  "description": "Playwright Test was created specifically to accommodate the needs of end-to-end testing. It does everything you would expect from a regular test runner, and more. Here you will learn how to:",
+  "source": "@site/docs/getting-started-vscode.mdx",
+  "sourceDirName": ".",
+  "slug": "/getting-started-vscode",
+  "permalink": "/docs/next/getting-started-vscode",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getting-started-vscode",
+    "title": "Getting started (VS Code)"
+  }
+}
