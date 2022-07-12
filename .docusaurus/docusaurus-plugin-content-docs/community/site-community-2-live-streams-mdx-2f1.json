@@ -1,0 +1,19 @@
+{
+  "unversionedId": "live-streams",
+  "id": "live-streams",
+  "title": "Live Streams",
+  "description": "Playwright cross browser automated testing",
+  "source": "@site/community/2-live-streams.mdx",
+  "sourceDirName": ".",
+  "slug": "/live-streams",
+  "permalink": "/dotnet/community/live-streams",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "community",
+  "previous": {
+    "title": "Conference Videos",
+    "permalink": "/dotnet/community/conference-videos"
+  }
+}
