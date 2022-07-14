@@ -1,0 +1,16 @@
+{
+  "unversionedId": "service-workers",
+  "id": "service-workers",
+  "title": "Service Workers Guide",
+  "description": "Service Workers provide a browser-native method of handling requests made by a page with the native Fetch API (fetch) along with other network-requested assets (like scripts, css, and images).",
+  "source": "@site/docs/service-workers.mdx",
+  "sourceDirName": ".",
+  "slug": "/service-workers",
+  "permalink": "/dotnet/docs/next/service-workers",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "service-workers",
+    "title": "Service Workers Guide"
+  }
+}
