@@ -1,0 +1,19 @@
+{
+  "unversionedId": "release-videos",
+  "id": "release-videos",
+  "title": "Release Videos",
+  "description": "Version 1.23",
+  "source": "@site/community/4-release-videos.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-videos",
+  "permalink": "/dotnet/community/release-videos",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "community",
+  "previous": {
+    "title": "Feature Videos",
+    "permalink": "/dotnet/community/feature-videos"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "feature-videos",
+  "id": "feature-videos",
+  "title": "Feature Videos",
+  "description": "Component Tests",
+  "source": "@site/community/3-feature-videos.mdx",
+  "sourceDirName": ".",
+  "slug": "/feature-videos",
+  "permalink": "/dotnet/community/feature-videos",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "community",
+  "previous": {
+    "title": "Live Streams",
+    "permalink": "/dotnet/community/live-streams"
+  },
+  "next": {
+    "title": "Release Videos",
+    "permalink": "/dotnet/community/release-videos"
+  }
+}
