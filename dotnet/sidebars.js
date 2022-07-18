@@ -12,6 +12,7 @@ module.exports = {
       ],
       "collapsed": false
     },
+    { "type": "doc", "id": "library" },
     { "type": "doc", "id": "release-notes" },
     {
       "type": "category",
