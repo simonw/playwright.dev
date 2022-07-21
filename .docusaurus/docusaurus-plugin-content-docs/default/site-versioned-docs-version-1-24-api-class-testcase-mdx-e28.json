@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-testcase",
+  "id": "version-1.24/api/class-testcase",
+  "title": "TestCase",
+  "description": "TestCase corresponds to every test(title, testFunction) call in a test file. When a single test(title, testFunction) is running in multiple projects or repeated multiple times, it will have multiple TestCase objects in corresponding projects' suites.",
+  "source": "@site/versioned_docs/version-1.24/api/class-testcase.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-testcase",
+  "permalink": "/docs/api/class-testcase",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "class-testcase",
+    "title": "TestCase"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Suite",
+    "permalink": "/docs/api/class-suite"
+  },
+  "next": {
+    "title": "TestResult",
+    "permalink": "/docs/api/class-testresult"
+  }
+}

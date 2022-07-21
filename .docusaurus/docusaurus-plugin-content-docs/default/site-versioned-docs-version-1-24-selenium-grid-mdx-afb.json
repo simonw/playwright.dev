@@ -1,0 +1,25 @@
+{
+  "unversionedId": "selenium-grid",
+  "id": "version-1.24/selenium-grid",
+  "title": "Selenium Grid",
+  "description": "Selenium 4",
+  "source": "@site/versioned_docs/version-1.24/selenium-grid.mdx",
+  "sourceDirName": ".",
+  "slug": "/selenium-grid",
+  "permalink": "/dotnet/docs/selenium-grid",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "selenium-grid",
+    "title": "Selenium Grid"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Continuous Integration",
+    "permalink": "/dotnet/docs/ci"
+  },
+  "next": {
+    "title": "Supported languages",
+    "permalink": "/dotnet/docs/languages"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-touchscreen",
+  "id": "version-1.24/api/class-touchscreen",
+  "title": "Touchscreen",
+  "description": "The Touchscreen class operates in main-frame CSS pixels relative to the top-left corner of the viewport. Methods on the touchscreen can only be used in browser contexts that have been initialized with hasTouch set to true.",
+  "source": "@site/versioned_docs/version-1.24/api/class-touchscreen.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-touchscreen",
+  "permalink": "/dotnet/docs/api/class-touchscreen",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "class-touchscreen",
+    "title": "Touchscreen"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "TimeoutError",
+    "permalink": "/dotnet/docs/api/class-timeouterror"
+  },
+  "next": {
+    "title": "Tracing",
+    "permalink": "/dotnet/docs/api/class-tracing"
+  }
+}

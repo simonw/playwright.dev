@@ -1,0 +1,25 @@
+{
+  "unversionedId": "test-configuration",
+  "id": "version-1.24/test-configuration",
+  "title": "Configuration",
+  "description": "Playwright Test provides options to configure the default browser, context and page fixtures. For example there are options for headless, viewport and ignoreHTTPSErrors. You can also record a video or a trace for the test or capture a screenshot at the end.",
+  "source": "@site/versioned_docs/version-1.24/test-configuration.mdx",
+  "sourceDirName": ".",
+  "slug": "/test-configuration",
+  "permalink": "/docs/test-configuration",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "test-configuration",
+    "title": "Configuration"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Command line",
+    "permalink": "/docs/test-cli"
+  },
+  "next": {
+    "title": "Page Object Model",
+    "permalink": "/docs/test-pom"
+  }
+}

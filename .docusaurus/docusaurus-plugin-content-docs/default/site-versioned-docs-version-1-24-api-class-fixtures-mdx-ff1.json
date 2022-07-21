@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-fixtures",
+  "id": "version-1.24/api/class-fixtures",
+  "title": "Fixtures",
+  "description": "Playwright Test is based on the concept of the test fixtures. Test fixtures are used to establish environment for each test, giving the test everything it needs and nothing else.",
+  "source": "@site/versioned_docs/version-1.24/api/class-fixtures.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-fixtures",
+  "permalink": "/docs/api/class-fixtures",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "class-fixtures",
+    "title": "Fixtures"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Worker",
+    "permalink": "/docs/api/class-worker"
+  },
+  "next": {
+    "title": "Playwright Test",
+    "permalink": "/docs/api/class-test"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "debug",
+  "id": "version-1.24/debug",
+  "title": "Debugging Tests",
+  "description": "The Playwright inspector is a great tool to help with debugging. It opens up a browser window highlighting the selectors as you step through each line of the test. You can also use the explore button to find other available selectors which you can then copy into your test file and rerun your tests to see if it passes.",
+  "source": "@site/versioned_docs/version-1.24/debug.mdx",
+  "sourceDirName": ".",
+  "slug": "/debug",
+  "permalink": "/dotnet/docs/debug",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "debug",
+    "title": "Debugging Tests"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Running Tests",
+    "permalink": "/dotnet/docs/running-tests"
+  },
+  "next": {
+    "title": "Test Generator",
+    "permalink": "/dotnet/docs/codegen"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "languages",
+  "id": "version-1.24/languages",
+  "title": "Supported languages",
+  "description": "The Playwright API is available in multiple languages.",
+  "source": "@site/versioned_docs/version-1.24/languages.mdx",
+  "sourceDirName": ".",
+  "slug": "/languages",
+  "permalink": "/dotnet/docs/languages",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "languages",
+    "title": "Supported languages"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Selenium Grid",
+    "permalink": "/dotnet/docs/selenium-grid"
+  }
+}

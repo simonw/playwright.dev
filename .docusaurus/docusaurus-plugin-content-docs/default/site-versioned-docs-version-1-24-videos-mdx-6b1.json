@@ -1,0 +1,25 @@
+{
+  "unversionedId": "videos",
+  "id": "version-1.24/videos",
+  "title": "Videos",
+  "description": "Playwright can record videos for all pages in a browser context. Videos are saved upon context closure, so make sure to await BrowserContext.CloseAsync().",
+  "source": "@site/versioned_docs/version-1.24/videos.mdx",
+  "sourceDirName": ".",
+  "slug": "/videos",
+  "permalink": "/dotnet/docs/videos",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "videos",
+    "title": "Videos"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Selectors",
+    "permalink": "/dotnet/docs/selectors"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/dotnet/docs/docker"
+  }
+}

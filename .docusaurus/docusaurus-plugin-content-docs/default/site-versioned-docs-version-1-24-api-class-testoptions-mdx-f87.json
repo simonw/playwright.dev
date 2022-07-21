@@ -1,0 +1,25 @@
+{
+  "unversionedId": "api/class-testoptions",
+  "id": "version-1.24/api/class-testoptions",
+  "title": "TestOptions",
+  "description": "Playwright Test provides many options to configure test environment, [Browser], [BrowserContext] and more.",
+  "source": "@site/versioned_docs/version-1.24/api/class-testoptions.mdx",
+  "sourceDirName": "api",
+  "slug": "/api/class-testoptions",
+  "permalink": "/docs/api/class-testoptions",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "class-testoptions",
+    "title": "TestOptions"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "TestInfo",
+    "permalink": "/docs/api/class-testinfo"
+  },
+  "next": {
+    "title": "TestProject",
+    "permalink": "/docs/api/class-testproject"
+  }
+}

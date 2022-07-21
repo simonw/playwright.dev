@@ -1,0 +1,25 @@
+{
+  "unversionedId": "accessibility-testing",
+  "id": "version-1.24/accessibility-testing",
+  "title": "Accessibility testing",
+  "description": "Playwright can be used to test your application for many types of accessibility issues.",
+  "source": "@site/versioned_docs/version-1.24/accessibility-testing.mdx",
+  "sourceDirName": ".",
+  "slug": "/accessibility-testing",
+  "permalink": "/docs/accessibility-testing",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "accessibility-testing",
+    "title": "Accessibility testing"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Library",
+    "permalink": "/docs/library"
+  },
+  "next": {
+    "title": "Auto-waiting",
+    "permalink": "/docs/actionability"
+  }
+}

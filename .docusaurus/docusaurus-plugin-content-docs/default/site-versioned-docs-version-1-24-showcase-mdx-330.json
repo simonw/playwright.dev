@@ -1,0 +1,16 @@
+{
+  "unversionedId": "showcase",
+  "id": "version-1.24/showcase",
+  "title": "Community Showcase",
+  "description": "Users",
+  "source": "@site/versioned_docs/version-1.24/showcase.mdx",
+  "sourceDirName": ".",
+  "slug": "/showcase",
+  "permalink": "/dotnet/docs/showcase",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "showcase",
+    "title": "Community Showcase"
+  }
+}

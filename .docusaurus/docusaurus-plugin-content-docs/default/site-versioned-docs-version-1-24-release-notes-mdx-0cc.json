@@ -1,0 +1,25 @@
+{
+  "unversionedId": "release-notes",
+  "id": "version-1.24/release-notes",
+  "title": "Release notes",
+  "description": "- Version 1.23",
+  "source": "@site/versioned_docs/version-1.24/release-notes.mdx",
+  "sourceDirName": ".",
+  "slug": "/release-notes",
+  "permalink": "/dotnet/docs/release-notes",
+  "tags": [],
+  "version": "1.24",
+  "frontMatter": {
+    "id": "release-notes",
+    "title": "Release notes"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting started - Library",
+    "permalink": "/dotnet/docs/library"
+  },
+  "next": {
+    "title": "Auto-waiting",
+    "permalink": "/dotnet/docs/actionability"
+  }
+}
